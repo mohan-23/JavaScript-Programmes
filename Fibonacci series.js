@@ -1,4 +1,4 @@
-const num = 8;
+const num = 6;
 
 function findFibonacci(num) {
   if (num <= 0) return [];
